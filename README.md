@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Pulkit 👋
 
-<!--
-**Pulkit86-cyber/Pulkit86-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE (AI/ML) Student | Software Developer | Problem Solver
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building practical software solutions using AI, backend engineering, and mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently building **QueueLess** — a smart queue management and waiting-time prediction platform.
+* 🛠️ Working with Python, FastAPI, PostgreSQL, Flutter, and Git.
+* 🤖 Exploring AI/ML and real-world applications of intelligent systems.
+* 🌱 Improving my problem-solving skills and software development practices.
+* 🎯 Goal: Build reliable products and contribute to meaningful engineering projects.
+
+### Tech Stack
+
+**Languages:** Python, Dart, SQL
+
+**Backend:** FastAPI, REST APIs, SQLAlchemy
+
+**Database:** PostgreSQL
+
+**Mobile Development:** Flutter
+
+**Tools:** Git, GitHub, VS Code
+
+### Featured Project
+
+**QueueLess — Smart Queue Management**
+
+A platform designed to help customers track their queue position and estimated waiting time while helping staff manage queues digitally.
+
+**Core technologies:** FastAPI · PostgreSQL · Flutter
+
+### Connect With Me
+
+* GitHub: https://github.com/Pulkit86-cyber
+
+---
+
+*Learning by building. Improving through practice.*
